@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/TaDpSnz"  ><a href="//imgur.com/a/TaDpSnz">Github</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="Saq Kot Marvin Banner">
+  <img src="https://imgur.com/gallery/github-TaDpSnz#BcpEVH6" alt="Saq Kot Marvin Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </div>
 
 <h1 align="center">¡Hola! Soy Saq Kot Marvin Gustavo Lux Rodríguez 🦅</h1>

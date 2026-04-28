@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/TU-ENLACE-DIRECTO-AQUI.png" alt="Saq Kot Marvin Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="https://i.imgur.com/TU-ENLACE-DIRECTO-AQUI.png" alt="Saq Kot Marvin Banner">
 </div>
 
 <h1 align="center">¡Hola! Soy Saq Kot Marvin Gustavo Lux Rodríguez 🦅</h1>

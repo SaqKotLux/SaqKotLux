@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://imgur.com/a/TaDpSnz.jpeg">
+ <img src="https://imgur.com/BcpEVH6">
 </div>
 
 <h1 align="center">¡Hola! Soy Saq Kot Marvin Gustavo Lux Rodríguez 🦅</h1>

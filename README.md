@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/t5Le9iy.png" alt="Saq Kot Marvin Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </div>
 
-<h1 align="center">¡Hola! Soy Saq Kot Marvin Gustavo Lux Rodríguez 🦅</h1>
+<h1 align="center">¡Hola! Soy Saq Kot</h1>
 <h3 align="center">Ingeniero en Sistemas de Información y Ciencias de la Computación | Desarrollador de Software</h3>
 
 <br>

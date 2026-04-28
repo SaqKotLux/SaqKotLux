@@ -1,33 +1,31 @@
 <div align="center">
- <img src="https://i.imgur.com/t5Le9iy.png">
+  <img src="https://i.imgur.com/t5Le9iy.png" alt="Saq Kot Marvin Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </div>
 
 <h1 align="center">¡Hola! Soy Saq Kot Marvin Gustavo Lux Rodríguez 🦅</h1>
-<h3 align="center">Ingeniero en Sistemas de Información y Ciencias de la Computación | Desarrollador Junior</h3>
+<h3 align="center">Ingeniero en Sistemas de Información y Ciencias de la Computación | Desarrollador de Software</h3>
 
 <br>
 
 ### Sobre mí
-- 🌱 Recién egresado (cierre de pensum) de la **Universidad Mariano Gálvez de Guatemala**.
-- 💻 Enfocado en **desarrollo web** (HTML, CSS, Java, MySQL) y bases de datos.
-- ⚡ Más de 3 años de experiencia en **gestión de proyectos**, control de expedientes y soporte administrativo.
-- 🚀 Buscando mi primera oportunidad como **Desarrollador Junior** o roles de Soporte Técnico / Desarrollo.
+- 🌱 Egresado (cierre de pensum) de la **Universidad Mariano Gálvez de Guatemala**.
+- 💻 Apasionado por el desarrollo de software y por construir soluciones que optimicen procesos y faciliten el trabajo en equipo.
+- ⚡ Cuento con más de 3 años de experiencia laboral en una firma de arquitectura, donde me encargué de la **gestión y seguimiento de proyectos**, control detallado de documentación técnica y apoyo directo a equipos multidisciplinarios. Esta experiencia me permitió fortalecer habilidades como organización, atención al detalle, resolución de problemas y trabajo bajo presión.
+- 🚀 Actualmente enfocado en desarrollar proyectos personales mientras continúo fortaleciendo mis habilidades técnicas para aportar valor en entornos de desarrollo de software.
 
 ### Habilidades Técnicas
 - **Frontend**: HTML, CSS
-- **Backend**: Java (básico)
+- **Backend**: Java
 - **Bases de Datos**: MySQL, consultas SQL
 - **Herramientas**: Git, GitHub, Microsoft Office (avanzado), Photoshop
+- **Explorando actualmente**: JavaScript, React y prácticas modernas de desarrollo
 
-### Proyectos
-- **[Gestor de Proyectos - Centro Histórico](https://github.com/SaqKotLux/mi-gestorProyectos)**
+### Proyectos Destacados
+- **[Gestor de Proyectos - Centro Histórico](https://github.com/SaqKotLux/mi-gestorProyectos)**  
+  Sistema para administración y seguimiento de proyectos.
 
 *(Pronto agregaré más proyectos...)*
 
 ---
 
-📧 **saqkotlux20004@gmail.com**  
-📱 **+502 4626-3781**  
-📍 Guatemala City, Guatemala
-
-*Abierto a oportunidades laborales y colaboraciones.*
+*Abierto a nuevas oportunidades y colaboraciones en desarrollo de software.*
